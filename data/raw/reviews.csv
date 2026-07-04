@@ -1,0 +1,51 @@
+review_id,product_id,rating,review_text,review_date
+R0001,P001,5,"Amazing sound quality and the battery lasts all day. Noise cancellation is great on the subway.",2026-01-12
+R0002,P001,5,"Best earbuds I've owned for the price. Fit is snug and comfortable for hours.",2026-02-03
+R0003,P001,4,"Good earbuds overall, case charging is fast.",2026-02-20
+R0004,P001,4,"Sound is crisp, touch controls took a day to get used to.",2026-03-15
+R0005,P001,2,"Started disconnecting randomly from my phone after the last firmware update. Really annoying during calls.",2026-04-02
+R0006,P002,5,"Fits perfectly and still lets me use wireless charging.",2026-01-18
+R0007,P002,5,"Great grip, doesn't add much bulk.",2026-02-10
+R0008,P002,4,"Good protection, survived a drop from waist height.",2026-03-01
+R0009,P002,3,"Case started yellowing after about two months of use.",2026-04-11
+R0010,P002,4,"Camera cutout is a tiny bit off-center on mine but doesn't affect the lens.",2026-05-05
+R0011,P003,5,"Love the display, sleep tracking is surprisingly accurate.",2026-01-22
+R0012,P003,4,"Battery easily lasts a week like advertised.",2026-02-14
+R0013,P003,4,"Great everyday smartwatch, water resistance held up during swimming.",2026-03-08
+R0014,P003,2,"Heart rate readings spike randomly during high-intensity workouts, not reliable for training.",2026-04-19
+R0015,P003,5,"Comfortable band, great value for the features.",2026-05-02
+R0016,P004,5,"Bass is unbelievable for such a small speaker.",2026-01-09
+R0017,P004,5,"Took it camping, survived rain no problem thanks to IPX6.",2026-02-17
+R0018,P004,4,"Good sound, pairing with phone is instant.",2026-03-12
+R0019,P004,3,"When I pair two of them for stereo, one keeps dropping the connection every 20 minutes or so.",2026-04-06
+R0020,P004,4,"Solid speaker for the price, decent volume.",2026-05-14
+R0021,P005,5,"Great posture improvement, folds up nicely for my bag.",2026-01-25
+R0022,P005,4,"Sturdy for my 13-inch laptop.",2026-02-21
+R0023,P005,4,"Good build quality, easy to adjust angles.",2026-03-19
+R0024,P005,3,"With my 17-inch gaming laptop it wobbles a bit at the highest height setting.",2026-04-23
+R0025,P005,5,"Perfect for video calls, raises my camera to eye level.",2026-05-11
+R0026,P006,5,"Works great with my MacBook, all ports function as expected.",2026-01-14
+R0027,P006,4,"SD card reader is fast, handy for photo transfers.",2026-02-08
+R0028,P006,4,"Compact and travels well.",2026-03-05
+R0029,P006,3,"Getting occasional flickering on the HDMI output when running 4K at 60Hz on my Dell laptop.",2026-04-17
+R0030,P006,5,"100W passthrough charging works perfectly, no more separate charger needed.",2026-05-20
+R0031,P007,5,"Switches feel amazing, very satisfying to type on.",2026-01-29
+R0032,P007,5,"RGB looks great and software is simple to use.",2026-02-24
+R0033,P007,4,"Compact layout took a bit to get used to but I like it now.",2026-03-22
+R0034,P007,3,"Spacebar occasionally double-presses, might be a stabilizer issue.",2026-04-09
+R0035,P007,4,"Hot-swappable switches make it easy to customize.",2026-05-16
+R0036,P008,5,"Video quality is crisp, way better than my laptop's built-in camera.",2026-01-31
+R0037,P008,4,"Privacy shutter is a nice touch.",2026-02-27
+R0038,P008,4,"Microphones pick up my voice clearly in meetings.",2026-03-25
+R0039,P008,3,"Autofocus hunts back and forth in dim lighting, distracting during calls.",2026-04-13
+R0040,P008,5,"Plug and play, worked instantly with no driver install.",2026-05-08
+R0041,P009,5,"Charged my phone from empty to full four times on one trip.",2026-01-16
+R0042,P009,4,"Fast charging works great with USB-C phones.",2026-02-12
+R0043,P009,4,"Good capacity, compact for how much power it holds.",2026-03-10
+R0044,P009,3,"Doesn't seem to hit full 20W speed unless I use the cable it came with.",2026-04-21
+R0045,P009,4,"Reliable, always have it in my backpack now.",2026-05-18
+R0046,P010,5,"Battery really does last over a week between charges.",2026-01-20
+R0047,P010,4,"Lightweight, barely notice it during workouts.",2026-02-16
+R0048,P010,4,"Syncs quickly with the app every morning.",2026-03-14
+R0049,P010,3,"Strap started fraying at the buckle after about a month of daily wear.",2026-04-25
+R0050,P010,4,"Step counting seems accurate compared to my phone.",2026-05-22

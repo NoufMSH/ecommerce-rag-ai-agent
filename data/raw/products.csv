@@ -1,0 +1,11 @@
+product_id,product_name,category,price,description
+P001,Wireless Earbuds X200,Audio,49.99,"Compact true-wireless earbuds with 24-hour battery life (with case), active noise cancellation, and touch controls. Comes with 3 sizes of silicone ear tips for a secure fit."
+P002,Slim Phone Case (iPhone 14),Accessories,15.99,"Ultra-thin shock-absorbing case for iPhone 14 with raised edges to protect the camera and screen. Available in clear, black, and navy."
+P003,SmartFit Watch S3,Wearables,89.99,"Fitness smartwatch with heart-rate monitoring, sleep tracking, 7-day battery life, and a 1.4-inch AMOLED display. Water resistant up to 50 meters."
+P004,Portable Bluetooth Speaker Boom Mini,Audio,34.99,"Palm-sized Bluetooth speaker with surprisingly deep bass, IPX6 water resistance, and 12-hour playtime. Pairs with a second Boom Mini for stereo sound."
+P005,Adjustable Laptop Stand,Office,24.99,"Aluminum laptop stand with 6 adjustable height and angle positions, improves posture and airflow. Folds flat for travel and fits laptops from 10 to 17 inches."
+P006,USB-C 6-in-1 Hub,Accessories,29.99,"Compact USB-C hub with HDMI 4K output, 2 USB-A ports, SD/microSD card reader, and 100W USB-C power delivery pass-through."
+P007,Mechanical Keyboard K87,Computer Peripherals,59.99,"Compact 87-key mechanical keyboard with hot-swappable switches, RGB backlighting, and a detachable USB-C cable. Ships with tactile brown switches by default."
+P008,1080p Webcam Pro,Computer Peripherals,39.99,"Full HD 1080p webcam with autofocus, a built-in privacy shutter, and dual noise-cancelling microphones. Plug-and-play via USB, no drivers needed."
+P009,20000mAh Power Bank,Accessories,32.99,"High-capacity 20000mAh power bank with 20W USB-C fast charging, supports charging two devices at once. Can fully charge most phones 4-5 times."
+P010,Fitness Tracker Band Lite,Wearables,24.99,"Lightweight fitness band with step counting, heart-rate monitoring, and 10-day battery life. Syncs with a companion app over Bluetooth."

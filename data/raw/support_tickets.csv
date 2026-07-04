@@ -1,0 +1,9 @@
+ticket_id,product_id,issue_summary,resolution_status
+T0001,P001,"Customer reports earbuds intermittently disconnect from phone after installing the latest firmware update.",Investigating
+T0002,P001,"Second report of random Bluetooth disconnects after the firmware update; engineering team notified.",Investigating
+T0003,P003,"Customer reports the heart rate sensor gives inconsistent readings during high-intensity workouts.",Open
+T0004,P004,"When two units are paired in stereo mode, one speaker drops the connection after roughly 20 minutes.",Open
+T0005,P006,"HDMI output flickers intermittently at 4K60 on certain laptop models (reported with a Dell XPS).",Investigating
+T0006,P007,"Spacebar occasionally registers a double keypress; suspected stabilizer defect on a subset of units.",Resolved
+T0007,P009,"Power bank does not reach the advertised 20W charging speed unless using the bundled cable.",Open
+T0008,P002,"Minor cosmetic complaint: case material yellowing after about two months of daily use.",Closed

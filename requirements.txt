@@ -1,0 +1,6 @@
+pyspark
+sentence-transformers
+numpy
+google-genai
+python-dotenv
+streamlit

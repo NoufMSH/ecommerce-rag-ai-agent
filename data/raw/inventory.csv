@@ -1,0 +1,11 @@
+product_id,stock_quantity,warehouse_location,restock_date
+P001,120,Warehouse A - New Jersey,
+P002,300,Warehouse B - Ohio,
+P003,45,Warehouse A - New Jersey,
+P004,0,Warehouse C - Texas,2026-07-20
+P005,80,Warehouse B - Ohio,
+P006,60,Warehouse A - New Jersey,
+P007,0,Warehouse C - Texas,2026-08-01
+P008,95,Warehouse B - Ohio,
+P009,150,Warehouse A - New Jersey,
+P010,110,Warehouse C - Texas,
