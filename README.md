@@ -5,6 +5,10 @@ questions about products (availability, reviews, common issues, description,
 recommendation) using **Retrieval-Augmented Generation (RAG)** over four data
 sources — product descriptions, reviews, inventory, and support tickets.
 
+> **Note:** This project uses the free Gemini API. Before running it, create a
+> free API key from [Google AI Studio](https://aistudio.google.com/apikey) and
+> add it to the `.env` file (see Quick Start below).
+
 ## Quick Start (Docker)
 
 The only prerequisite is [Docker Desktop](https://www.docker.com/products/docker-desktop/) — installed and running. No Python, Java, or other dependencies needed on your machine.
