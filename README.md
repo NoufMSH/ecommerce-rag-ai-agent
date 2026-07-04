@@ -1,6 +1,6 @@
 # E-Commerce Product Q&A AI Agent (RAG)
 
-A university course project: a single AI agent that answers customer
+A course project: a single AI agent that answers customer
 questions about products (availability, reviews, common issues, description,
 recommendation) using **Retrieval-Augmented Generation (RAG)** over four data
 sources — product descriptions, reviews, inventory, and support tickets.
