@@ -5,6 +5,29 @@ questions about products (availability, reviews, common issues, description,
 recommendation) using **Retrieval-Augmented Generation (RAG)** over four data
 sources — product descriptions, reviews, inventory, and support tickets.
 
+## Quick Start (Docker)
+
+The only prerequisite is [Docker Desktop](https://www.docker.com/products/docker-desktop/) — installed and running. No Python, Java, or other dependencies needed on your machine.
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/NoufMSH/ecommerce-rag-ai-agent.git
+cd ecommerce-rag-ai-agent
+
+# 2. Add your own free Gemini API key (get one at https://aistudio.google.com/apikey)
+cp .env.example .env
+# then edit .env and paste your key into GEMINI_API_KEY
+
+# 3. Build and run
+docker compose up --build
+```
+
+Open **http://localhost:8501** and ask a question, e.g. *"Is this product available?"*
+
+First run takes a few minutes to build (installs dependencies, and bakes the PySpark ETL + embedding index into the image); after that, `docker compose up` starts in seconds. Stop with `Ctrl+C`, then `docker compose down` to clean up.
+
+Don't want to use Docker? See [Option B](#option-b--run-locally-without-docker) below.
+
 ## 1. Project idea
 
 Customers ask natural questions like *"Is this available?"* or *"What do
@@ -68,19 +91,8 @@ cp .env.example .env
 
 ### Option A — Docker (recommended, minimal setup)
 
-The only prerequisite is [Docker Desktop](https://www.docker.com/products/docker-desktop/).
-This avoids installing Python, Java, or any dependencies on your machine at all —
-everything (including the PySpark ETL and the embedding index) is built inside
-the container.
-
-```bash
-docker compose up --build
-```
-
-Open **http://localhost:8501** in your browser. First build takes a few
-minutes (downloads Python/Java packages + the embedding model); after that,
-`docker compose up` starts in seconds. Only re-run with `--build` if you
-change the code or the raw CSVs. Stop with `Ctrl+C`, or `docker compose down`.
+See [Quick Start](#quick-start-docker) above — just `docker compose up --build`.
+Only re-run with `--build` if you change the code or the raw CSVs.
 
 ### Option B — Run locally without Docker
 
